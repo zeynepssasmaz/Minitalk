@@ -30,5 +30,5 @@ $ ./server
 $ ./client <pid> <message>
 # When all processes are finished, exit the server.
 $ control(^) C
-![alt text]( <img width="430" alt="Ekran Resmi 2022-09-22 13 29 41" src="https://user-images.githubusercontent.com/102350433/191726486-cdbdff5d-4d16-449d-ade4-8ddd1712d14b.png">)
+![Screenshot](<img width="430" alt="Ekran Resmi 2022-09-22 13 29 41" src="https://user-images.githubusercontent.com/102350433/191726669-72bfb4f4-ce9b-4e3f-8e2d-e7d0dd999203.png">)
 
