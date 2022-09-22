@@ -30,9 +30,5 @@ $ ./server
 $ ./client <pid> <message>
 # When all processes are finished, exit the server.
 $ control(^) C
-![alt text](https://user-images.githubusercontent.com/102350433/191724690-59346a6b-60a6-47e3-929f-c9f8f9f4a43f.png)
-
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/102350433/191724690-59346a6b-60a6-47e3-929f-c9f8f9f4a43f.png">
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src=https://user-images.githubusercontent.com/102350433/191724729-f6e6b38d-9c86-40ab-94ac-d3c5f7ce8134.png">
-
+![alt text]( <img width="430" alt="Ekran Resmi 2022-09-22 13 29 41" src="https://user-images.githubusercontent.com/102350433/191726486-cdbdff5d-4d16-449d-ade4-8ddd1712d14b.png">)
 
